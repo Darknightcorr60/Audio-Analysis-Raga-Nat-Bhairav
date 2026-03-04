@@ -8,12 +8,12 @@ Principal Researcher:[LinkedIn Profile](https://www.linkedin.com/in/vishalmpa/)
 * **Method:** Short-time Fourier Transform (STFT)
 
 ## 📊 Visual Analysis
-### 1. Spectrogram Analysis
-Analyzing frequency components and tonal nuances of Raga Nat Bhairav.
+### 1. Waveform Mapping
+Visualizing the amplitude and temporal structure of the vocal recording.
 ![Waveform](./Waveform_Nat_Bhairav.png)
 
-### 2. Waveform Mapping
-Visualizing the amplitude and temporal structure of the vocal recording.
+### 2. Spectrogram Analysis
+Analyzing frequency components and tonal nuances of Raga Nat Bhairav.
 ![Spectrogram](./Spectrogram_Nat_Bhairav.png)
 
 ## 🎯 Research Significance
