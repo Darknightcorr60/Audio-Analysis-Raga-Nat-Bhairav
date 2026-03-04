@@ -19,4 +19,4 @@ Visualizing the amplitude and temporal structure of the vocal recording.
 This project bridges the gap between **Indian Knowledge Systems (IKS)** and **Data Science**, exploring how acoustic features can be used in music therapy and sound-based healing.
 
 ---
-
+References: "I have used open-source libraries: Librosa, NumPy, and Matplotlib. Audio samples used for analysis are for academic research purposes only."
