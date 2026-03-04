@@ -4,4 +4,4 @@ Computational analysis of Indian Classical Music using Python (Librosa) for Muso
 ![Spectrogram](./Spectrogram_Nat_Bhairav.png)
 
 ## Waveform Mapping
-![Waveform](./Waveform Mapping.png)
+![Waveform](./Waveform_Mapping.png)
