@@ -20,3 +20,10 @@ This project bridges the gap between **Indian Knowledge Systems (IKS)** and **Da
 
 ---
 References: "I have used open-source libraries: Librosa, NumPy, and Matplotlib. Audio samples used for analysis are for academic research purposes only."
+-----------------------------------------------------------------------------------------------------------------------------------------
+Data Attribution:
+
+Vocal Recording: Shri Arindam Bhattacharyya
+
+Dataset Curation & Signal Processing: Vishal
+-----------------------------------------------------------------------------------------------------------------------------------------
