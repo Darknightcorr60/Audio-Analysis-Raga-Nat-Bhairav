@@ -19,4 +19,4 @@ Visualizing the amplitude and temporal structure of the vocal recording.
 This project bridges the gap between **Indian Knowledge Systems (IKS)** and **Data Science**, exploring how acoustic features can be used in music therapy and sound-based healing.
 
 ---
-**Contributor:** Vishal | [Musixmatch Graduate Profile](LINK_APNA_YAHAN_PASTE_KAREIN)
+**Contributor:** Vishal | [Musixmatch Graduate Profile](Waveform_Nat_Bhairav)
