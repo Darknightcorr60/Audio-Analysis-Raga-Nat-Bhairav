@@ -1,4 +1,4 @@
-Principal Researcher:** [LinkedIn Profile](https://www.linkedin.com/in/vishalmpa/)
+Principal Researcher:[LinkedIn Profile](https://www.linkedin.com/in/vishalmpa/)
 # Audio Analysis of Raga Nat Bhairav
 **Project Objective:** Computational mapping of Indian Classical Music structures for Research in Musopathy & Digital Health.
 
